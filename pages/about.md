@@ -23,5 +23,4 @@ Para la historia reciente del país es innegable la importancia de la figura de 
 Por esto, acceder a su archivo personal nos permite explorar esta dimensión de su vida -de la cual se intuyen solo algunos aspectos generales-, especialmente los modos en que se percibió y apreció su labor en la dirección de la CPS. 
 ![image](https://github.com/Minombreesana/MMC_collection/assets/71992795/7e3848d4-8eda-4830-b1da-a236d36f4219)
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
