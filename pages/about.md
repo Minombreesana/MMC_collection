@@ -21,6 +21,6 @@ Tras su fallecimiento en 2003 algunos de los documentos que hacían parte de su 
 Para la historia reciente del país es innegable la importancia de la figura de MMC como creadora y gestora cultural, y su compromiso con la divulgación de las artes y la literatura. Es bien sabido que su faceta como poeta es ampliamente conocida gracias a los análisis, estudios, reediciones y, en general, la divulgación de los que ha sido objeto su obra. En contraste, es escaso el conocimiento sobre el ejercicio de su rol como directora de la CPS.
 
 Por esto, acceder a su archivo personal nos permite explorar esta dimensión de su vida -de la cual se intuyen solo algunos aspectos generales-, especialmente los modos en que se percibió y apreció su labor en la dirección de la CPS. 
-![image](https://github.com/Minombreesana/MMC_collection/assets/71992795/7e3848d4-8eda-4830-b1da-a236d36f4219)
+
 
 
