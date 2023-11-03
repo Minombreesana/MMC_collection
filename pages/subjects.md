@@ -15,5 +15,5 @@ cloud-fields: site.data.theme.subjects-fields
 - compliments_cps: elogios elogios que diferentes figuras del mundo intelectual hicieron a la CPS como entidad cultural.
 - cps_prize: mención del premio CPS.
 - other: mención de la CPS por otras razones.
-![image](https://github.com/Minombreesana/MMC_collection/assets/71992795/5a0afb89-6070-4dc4-87f2-140e57c8aa26)
+
 
